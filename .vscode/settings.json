@@ -1,0 +1,9 @@
+{
+    "workbench.editor.showTabs": "multiple",
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.location": "hidden",
+    "workbench.auxiliaryActivityBar.location": "hidden",
+    "windhawk.editedModId": "macos-style-dock-fork",
+    "windhawk.editedModWasModified": false,
+    "git.enabled": true
+}
